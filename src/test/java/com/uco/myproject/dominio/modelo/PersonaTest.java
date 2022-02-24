@@ -18,7 +18,7 @@ class PersonaTest {
 
         //assert se valida el resultado
 
-        Assertions.assertEquals("jorge",persona.getNombre());
+        Assertions.assertEquals("juan",persona.getNombre());
         Assertions.assertEquals("castaño",persona.getApellido());
     }
 
